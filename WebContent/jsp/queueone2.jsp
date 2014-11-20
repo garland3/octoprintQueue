@@ -157,7 +157,8 @@
 				 <a href="http://127.0.0.1:5000/">Link to Octoprint</a><br>
 				 <a href="http://130.127.199.172:8080/">Link to Tomcat Home</a><br>
 				 <a href="http://130.127.199.172:8080/manager/html">Link to Tomcat Manager</a><br>
-				  <a href=">http://130.127.199.172/phpmyadmin">Link to PHP myadmin</a>
+				  <a href="http://130.127.199.172/phpmyadmin">Link to PHP myadmin</a> 
+				 <a href="https://github.com/garland3/octoprintQueue">Link Source Code on GitHub</a>
 			 </div>
 		 </div>
       
