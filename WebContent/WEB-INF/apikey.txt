@@ -1,0 +1,10 @@
+# 98F1F86D667E4416A561305FBB48A1F6 on actual printer
+apikey=2D9548F444144BA2B118B401C908D9E9
+
+
+AddressOfOcotoprint=http://127.0.0.1:5000
+
+dbconnectionstring=jdbc:mysql://127.0.0.1:3306/ThreeDPrintingQueue
+#dbpassword=Ev3Ljs1B070odYwH2czt
+dbpassword=
+dbusername=root
